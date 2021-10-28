@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "replace machine",
+        "price": 2000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/nR8NGv1/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "replace tire",
+        "price": 3000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/hFmjS1L/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "replace oil",
+        "price": 1000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/dQ7XKTX/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "replace turbine",
+        "price": 4000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/xjTKcSH/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "replace glass",
+        "price": 3000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/P98hT6Y/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "repair machine",
+        "price": 3000,
+        "description": "this is the description of this service.",
+        "time": 2,
+        "img": "https://i.ibb.co/85fqLh0/6.jpg"
+    }
+]
